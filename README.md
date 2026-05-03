@@ -76,7 +76,7 @@ Every component includes: sizes, states, internal spacing, variants, accessibili
 
 **1. Clone**
 ```bash
-git clone https://github.com/your-handle/pixel-perfect-mobile
+git clone https://github.com/UMDhodi/pixel-perfect-mobile
 ```
 
 **2. Move to Claude skills folder**
