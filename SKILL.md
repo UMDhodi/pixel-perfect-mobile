@@ -1,25 +1,13 @@
 ---
 name: pixel-perfect-mobile
 description: >
-  Expert mobile UI design system for generating production-ready component specs, design tokens,
-  and code for any AI tool or platform — Claude, GPT, Gemini, Cursor, VS Code, Claude Code,
-  OpenCode, Manus, and all modern LLM-powered dev environments.
-
-  USE THIS SKILL when the user asks to:
-  - Design or spec a mobile UI component (button, card, input, nav bar, toggle, snackbar, etc.)
-  - Generate design tokens (colors, typography, spacing, radius) for a mobile app
-  - Get sizing/spacing/typography rules for iOS or Android
-  - Create Figma-compatible component specs
-  - Build accessible, polished mobile UI with correct measurements
-  - Convert a vague UI idea into structured, implementation-ready specs
-  - Review or critique a mobile UI for spacing, hierarchy, or visual polish
-  - Write Tailwind / SwiftUI / Jetpack Compose / React Native code for a component
-  - Ask "what size should X be?", "what line height?", "good vs bad UI?"
-  - Generate a complete mobile design system from scratch
-
-  Also triggers on: "make it look polished", "pixel perfect", "mobile component", "design system",
-  "UI tokens", "spacing system", "8pt grid", "4pt grid", "Material Design", "HIG", "iOS design",
-  "Android design", "Figma grid", "component spec".
+  Mobile UI design system for production-ready component specs, design tokens, and code.
+  Works with Claude, GPT, Gemini, Cursor, VS Code, Claude Code, OpenCode, Manus, and more.
+  Use for: component specs (button, card, input, nav, toggle, snackbar), design tokens
+  (colors, spacing, radius, typography), iOS HIG / Material Design 3 rules, Figma specs,
+  Tailwind / SwiftUI / Jetpack Compose / React Native code, UI critique, or building a
+  full mobile design system from scratch. Triggers on: "pixel perfect", "mobile component",
+  "design system", "UI tokens", "8pt grid", "4pt grid", "component spec", "what size should X be".
 ---
 
 # Pixel-Perfect Mobile UI Skill
